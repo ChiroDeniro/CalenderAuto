@@ -9,10 +9,6 @@ Automatische kalender scripts voor KABK gerelateerde agenda's. Genereer `.ics` b
 | Bestand | Beschrijving |
 |---|---|
 | `kabk_academische_kalender.ics` | KABK academische kalender 2025-2026 |
-| `werk_hdk.ics` | Werkdagen HdK 2026 |
-| `generate_kabk.py` | Script om KABK kalender te genereren |
-| `generate_calendar.py` | Script om werkdagen te genereren |
-
 ---
 
 ## 🚀 Optie 1 — Abonneren via URL (aanbevolen)
@@ -22,16 +18,12 @@ Je agenda blijft automatisch up-to-date als er iets wijzigt.
 1. Ga naar [calendar.google.com](https://calendar.google.com)
 2. Klik links op **+** naast *Andere agenda's*
 3. Kies **Via URL**
-4. Plak één van deze links:
+4. Plak deze link:
 
 **KABK Academische Kalender:**
 ```
 https://raw.githubusercontent.com/chirodeniro/calenderauto/main/kabk_academische_kalender.ics
 ```
-
-**Werkdagen HdK:**
-```
-https://raw.githubusercontent.com/chirodeniro/calenderauto/main/werk_hdk.ics
 ```
 
 5. Klik op **Agenda toevoegen** — klaar! ✅
@@ -75,9 +67,6 @@ Na het toevoegen kun je de agenda makkelijk aan- en uitzetten:
 ---
 
 ## 🛠️ Scripts zelf draaien
-
-Heb je Python 3 nodig. Geen extra packages vereist.
-
 ```bash
 # Clone de repo
 git clone https://github.com/chirodeniro/calenderauto.git
