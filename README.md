@@ -11,7 +11,7 @@ Automatische kalender scripts voor KABK gerelateerde agenda's. Genereer `.ics` b
 | `kabk_academische_kalender.ics` | KABK academische kalender 2025-2026 |
 ---
 
-## 🚀 Optie 1 — Abonneren via URL (aanbevolen)
+## 🚀 Optie 1 — Abonneren via URL (aanbevolen) oioijoijo
 
 Je agenda blijft automatisch up-to-date als er iets wijzigt.
 
